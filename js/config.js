@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Arivia";
+var l_serverName = "Arivia Roleplay";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -113,8 +113,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	{youtube: "https://www.youtube.com/watch?v=Vlo2I-wF6CY", name: "KSHMR & Bassjackers feat. Sirah - Memorie"},
 ];
 
 // Random music order?
@@ -123,7 +122,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 15;
+var l_musicVolume = 7;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -131,9 +130,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	"Amuse toi ^^",
+	"Merci de nous rejoindre ^^",
+	"Des futurs mises a jours arrive trés bientot?",
 ];
 
 // Random message order?
@@ -151,7 +150,7 @@ var l_messagesFade = 1000;
 // Show errors inside Garry's Mod?
 // Can be useful for finding errors
 // 'true' or 'false'
-var l_showErrorsIngame = true;
+var l_showErrorsIngame = false;
 
 //==============================================================
 //========================== WARNING ===========================
